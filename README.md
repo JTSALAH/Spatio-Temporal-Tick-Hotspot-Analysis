@@ -291,8 +291,19 @@ Iterations
 - GC 1:1 Case:Control Results (5 Repetitions)
 - GC 1:2 Case:Control Results (5 Repetitions) 
 
+# Example Output
 
+I configured this script to create a folders/subfolders for each iteration in order to organize and summarize model outputs.
 
+In the example output below, we store:
+- A folder with a shapefile of our model points used 
+- A folder of shapefiles for our hotspot
+- The SatScan Case & Geo files in both .cas/.geo & .csv
+- Land Cover Class summary for hotspots
+- A table of all hotspots and their closest trails
+- An R friendly .rda file for each SatScan output
+
+![ExampleOutput](https://raw.githubusercontent.com/JTSALAH/Spatio-Temporal-Tick-Hotspot-Analysis/main/IMAGES/ExampleOutput.png)
 
 
 
