@@ -6,7 +6,7 @@ Data
 - MassGIS Data: Major Ponds and Major Streams
 - MassGIS Data: Building Structures (2-D)
 - MassGIS Data: MassGIS-MassDOT Roads
-- MassGIS Data: Trakcs and Trails
+- MassGIS Data: Tracks and Trails
 - MRLC's National Land Cover Database
 
 SatScan Macro Parameters
