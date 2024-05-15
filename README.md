@@ -145,7 +145,7 @@ SatScan Macro Parameters
 # Hotspot Analytics
 ## Remove Developed Hotspots
 
-It is difficult to organize tick treatments on private property, so I chose to remove hotspots which where present on more than 50% developed land cover.
+It is difficult to organize tick treatments on private property, so we chose to remove hotspots which were present on more than 50% developed land cover.
 
 ```r
  # 1: Setup HotSpot Analysis Dependencies
